@@ -9,8 +9,7 @@
 - **Languages**: C, Python,html, LaTeX
 - **Tools**: Git, VSCode, notion
 
-    ![Applied Info](https://img.shields.io/badge/Applied_Information_Technology_Engineer-Pass-blue?style=for-the-badge&logo=target)
-<!--
+
 **m4tch4n/m4tch4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
