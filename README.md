@@ -1,14 +1,13 @@
 # Hello, there! こんにちは。
 
-国立大学法人****大学で電子工学を学んでいる2年生です。
-電磁気学・天文学・法学に興味があります。
+国立大学法人****大学で電子工学を学んでいる2年生です。\\
+電磁気学・天文学・法学に興味があります。\\
 最近は応用情報技術者の試験勉強とGitの勉強にハマっています。
 
-## 🛠 Skills & Certifications
+## Skills & Certifications
 - **Certification**: 基本情報技術者
 - **Languages**: C, Python,html, LaTeX
 - **Tools**: Git, VSCode, notion
-- 
 <!--
 **m4tch4n/m4tch4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
