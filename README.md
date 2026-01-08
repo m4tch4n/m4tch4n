@@ -6,6 +6,6 @@
 
 ## Skills & Certifications
 - **Certification**: 基本情報技術者
-- **Languages**: C, Python,html, LaTeX
+- **Languages**: C, Python, html, css, LaTeX
 - **Tools**: Git, VSCode, Notion
 
